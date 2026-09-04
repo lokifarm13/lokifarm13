@@ -104,7 +104,7 @@ def hello_world():
 
 - [Windows](#windows)
 - [Linux](#linux)
-- [mac0S](#macos)
+- [macOS](#macos)
 - [Docker Desktop](#docker-desktop)
 
 ### Windows
