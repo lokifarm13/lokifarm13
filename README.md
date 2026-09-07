@@ -69,9 +69,10 @@ python src/main.py
 Все файлы проекта и их README:
 
 1. [Главный README](README.md)
-2. [src/README.md](src/README.md) — исходный код программы
-3. [translations/README.md](translations/README.md) — переводы проекта
-4. [translations/resources/README.md](translations/resources/README.md) — изображения и медиафайлы
+2. [Bash инструкция](Linux\Bash\README.md)
+3. [src/README.md](src/README.md) — исходный код программы
+4. [translations/README.md](translations/README.md) — переводы проекта
+5. [translations/resources/README.md](translations/resources/README.md) — изображения и медиафайлы
 
 Файлы будут дополянтся по мере работы❤️
 
