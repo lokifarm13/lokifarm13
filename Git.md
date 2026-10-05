@@ -1,6 +1,6 @@
 ## Git. Основы
  
-![Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
+![Linus](image-2.png)
  
 ### Зачем нужен Git?
  
@@ -357,11 +357,5 @@ git merge anybranch
 ### Мэмы по Git
  
 ![Какой-то текст](/content/Git/img/1.jpg)
- 
-![Какой-то текст](/content/Git/img/2.jpg)
- 
-![Какой-то текст](/content/Git/img/3.jpg)
- 
-![Какой-то текст](/content/Git/img/4.jpg)
- 
+
 > Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
