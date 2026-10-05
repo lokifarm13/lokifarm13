@@ -8,4 +8,5 @@
 - [BashCLI](/Linux/Bash/bashCLI.md)
 - [BashScripting](/Linux/Bash/bashScripting.md)
 - [Git](/Git.md)
+- [Работа BashScripting](/bashscriptingwork/README.md)
 
